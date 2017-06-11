@@ -1,0 +1,13 @@
+R for Excel Users
+
+- Motivation
+- Set Up and installation
+- Approach and the Tidyverse
+- Importing csvs
+- Importing data from excel
+- Inspecting your data
+- Pivots and Aggregation
+- VLOOKUP
+- SUMIF
+- Adding columns using logic...
+- Charting
